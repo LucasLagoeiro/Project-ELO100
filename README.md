@@ -4,7 +4,7 @@
 
 <p align="center">
   The following line robot of my project<br><br>
-  <img src="imgs/foto_do_projeto.jpg"width="200" height="350"/>
+  <img src="imgs&gifs/foto_do_projeto.jpg"width="200" height="350"/>
 </p>
 
 ## Prerequisites
@@ -23,7 +23,7 @@ After this you just need to run with Arduino Compiler.
 ## The Code of the Project
 > After you run the code, you have 12 seconds to put your following line Robot on the track.
 <p align="center">
-   <img src="imgs/carrinho_reto.gif" width="500" height="300">
+   <img src="imgs&gifs/carrinho_reto.gif" width="500" height="300">
 </p>
 
 ### Functions
@@ -31,14 +31,14 @@ After this you just need to run with Arduino Compiler.
 > The right line follower sensor does not detect light ("detects black line"), stopping the right motors thus only the left motors will remain active.<br>
 
 <p align="center">
-<img src="imgs/direita.gif" width="350" height="500">
+<img src="imgs&gifs/direita.gif" width="350" height="500">
 </p>
 
 #### 2 - Turn left
 > The left line follower sensor does not detect light ("detects black line"), stopping the left motors thus only the right motors will remain.<br>
 
 <p align="center">
-<img src="imgs/esquerda.gif" width="350" height="500">
+<img src="imgs&gifs/esquerda.gif" width="350" height="500">
 </p>
 
 #### 3 - Stops
@@ -46,7 +46,7 @@ After this you just need to run with Arduino Compiler.
 > Both line follower sensors do not detect light ("detects a perpendicular black line") thus stopping and counting 8 seconds (appears on display - 8,7,6,5,4,3,2,1).<br>
 
 <p align="center">
-<img src="imgs/carrinho_contador.gif" width="500" height="350">
+<img src="imgs&gifs/carrinho_contador.gif" width="500" height="350">
 </p>
 
 #### 4 - Emergency Stop
@@ -54,7 +54,7 @@ After this you just need to run with Arduino Compiler.
 > When there's an obstacle on the track the ultrasonic sensor will detect and stop all the motors until this obstacle is removed from the track.<br>
 
 <p align="center">
-<img src="imgs/algo_na_frente.gif" width="300" height="500">
+<img src="imgs&gifs/algo_na_frente.gif" width="300" height="500">
 </p>
 
 ## Updates
