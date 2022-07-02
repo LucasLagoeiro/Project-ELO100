@@ -67,7 +67,7 @@ After this you just need to run with Arduino Compiler.
 
 
 ## Meta
-This project is based on the Energy and Mobility megatrend (I has a post in [Instagram](https://www.instagram.com/reel/Cezt8xYjCVW/) to explain all the project is about). 
+This project is based on the Energy and Mobility megatrend (I has a post in [Youtube](https://youtu.be/THYwwkqnKmc) to explain all the project is about). 
 
 Guided  by the professor [@Rudolf_Buhler](https://br.linkedin.com/in/rtbuhler) on ELO100 subject in the [University Center of FEI](https://portal.fei.edu.br/)
 
