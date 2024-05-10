@@ -75,7 +75,7 @@ Guided  by the professor [@Rudolf_Buhler](https://br.linkedin.com/in/rtbuhler) o
 
 Danilo Barbosa - [@bdanilo_](https://www.instagram.com/bdanilo_/) - Mechanics
 
-Massiel Blandy - [@massiblandy](https://www.instagram.com/massiblandy/) - Eletronics
+Massiel Blandy - [@massiblandy](https://github.com/massiblandy) - Eletronics
 
 Lucas Lagoeiro - [@DevLagoeiro](https://twitter.com/DevLagoeiro) - devlagoeiro@outlook.com - Software
 <br><br> 
